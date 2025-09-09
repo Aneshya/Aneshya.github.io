@@ -1,0 +1,1 @@
+Hello Everyone, This is a website which I created for myself which highlights about me, my education, hobbies, achievements and contact page. I created this webite with html,css and javascript. Hope it will help you all
