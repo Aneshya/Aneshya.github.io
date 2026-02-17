@@ -70,7 +70,8 @@ Some of the projects featured on the site include:
 ## 📸 Preview
 
 > Deployed version coming soon 🚀  
-(You can add screenshots or a live link here)
+<img width="1205" height="647" alt="image" src="https://github.com/user-attachments/assets/30f17566-75d4-4e93-887d-a93efe9527cf" />
+
 
 ---
 
