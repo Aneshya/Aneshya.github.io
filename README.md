@@ -78,8 +78,8 @@ Some of the projects featured on the site include:
 
 Feel free to connect with me:
 - **Email:** aneshya512@gmail.com  
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/Aneshya 
+- **LinkedIn:** https://www.linkedin.com/in/aneshya-das-153a91317/
 
 ---
 
